@@ -1,3 +1,7 @@
+# IMPORTANT
+
+This repository is not maintained anymore. It has been moved to https://github.com/paritytech/js-libs/tree/master/packages/abi.
+
 # @parity/abi
 
 A port of [https://github.com/paritytech/ethabi](https://github.com/paritytech/ethabi) to JavaScript
