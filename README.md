@@ -1,6 +1,6 @@
 # IMPORTANT
 
-This repository is not maintained anymore. It has been moved to https://github.com/paritytech/js-libs/tree/master/packages/abi.
+**This repository is not maintained anymore. It has been moved to https://github.com/paritytech/js-libs/tree/master/packages/abi.**
 
 # @parity/abi
 
